@@ -1,4 +1,4 @@
-# 🚀 High-Performance Distributed In-Memory Data Store 🚀
+# 🚀 High-Performance Distributed In-Memory Data Store
 
 This repository contains a highly performant, low-latency **distributed in-memory data store** written in modern C++17. It integrates concurrency, fault tolerance, and analytics capabilities into one cohesive solution, showcasing advanced C++ features suitable for production-grade systems.
 
