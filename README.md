@@ -135,7 +135,7 @@ dist_data_store/
 
 1. **Clone** this repository:
    ```bash
-   git clone <your-repo-url> dist_data_store
+   git clone https://github.com/maazfaisal02/High-Performance-Distributed-In-Memory-Data-Store.git
    cd dist_data_store
 2. Generate build files with CMake:
    ```bash
